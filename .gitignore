@@ -12,6 +12,7 @@ node_modules/
 dist/
 
 .vscode/
+backend/*.db
 .idea/
 
 .DS_Store
